@@ -1,2 +1,2 @@
-# BlockNews
-Repositório do código fonte da aplicação BlockNews
+# PagCoin
+Repositório do código fonte da aplicação PagCoin
